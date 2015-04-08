@@ -1,0 +1,22 @@
+[TITLE] Level 2  Título: ## Exemplo de texto:
+[TITLE] Level 1  Título: # Esta linha é um título
+[TITLE] Level 2  Título: ## E esta é um subtítulo
+[Text] {Content = Aqui temos um parágrafo de texto comum -Breakline: true
+[Text] {Content =  (ele é delimitado por linhas em branco) -Breakline: true
+[Text] {Content =  e a seguir teremos uma lista: -Breakline: true
+[Item]Level2, Content: * Este é o primeiro item da lista  breakline: true End: false
+[Item]Level1, Content: * Este é o segundo item da lista.  breakline: true End: false
+[Item]Level2, Content: * Este é o terceiro item da lista  breakline: true End: false
+[Text] {Content = Style: [ITALICO] 1. Este é o primeiro item da lista. *Também pode conter formatação.* -Breakline: true
+[Item]Level1, Content: 1. Este é o segundo item da lista  breakline: true End: false
+[Item]Level1, Content: 1. Este é o terceiro item da lista  breakline: true End: false
+[Text] {Content = Aqui já estamos em um novo parágrafo.  -Breakline: true
+[Text] {Content = Style: [ITALICO] O trecho *entre asteriscos* será enfatizado  -Breakline: true
+[Text] {Content = Style: [BOLD] em itálico -Breakline: true
+[Text] {Content = Style: [BOLD]  e o trecho **entre asteriscos** -Breakline: true
+[Text] {Content = Style: [BOLD] **duplos** será enfatizado em negrito. É possível  -Breakline: true
+[Text] {Content = fazer links para a web -Breakline: true
+[Text] {Content =  também -Breakline: true
+[Text] {Content =  como  -Breakline: true
+Pagina da Web (Link): null(http://professor.unisinos.br/ltoniettoBreakline: true
+[Text] {Content = . -Breakline: true

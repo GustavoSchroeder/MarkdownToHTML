@@ -1,0 +1,21 @@
+## Exemplo de texto:
+
+# Esta linha é um título
+## E esta é um subtítulo
+
+Aqui temos um parágrafo de texto comum, (ele é delimitado por linhas em branco), e a seguir teremos uma lista:
+
+* Este é o primeiro item da lista
+* Este é o segundo item da lista.
+* Este é o terceiro item da lista
+
+1. Este é o primeiro item da lista. *Também pode conter formatação.*
+1. Este é o segundo item da lista
+1. Este é o terceiro item da lista
+
+Aqui já estamos em um novo parágrafo. 
+O trecho *entre asteriscos* será enfatizado 
+em itálico, e o trecho **entre asteriscos**
+**duplos** será *enfatizado* em negrito. É possível 
+fazer links para a web, também, como 
+[página web](http://professor.unisinos.br/ltonietto).
